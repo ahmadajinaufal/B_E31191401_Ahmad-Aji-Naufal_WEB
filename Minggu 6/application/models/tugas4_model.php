@@ -3,9 +3,9 @@ class tugas4_model extends CI_Model {
     public function get_data()
 	{
         $data_mahasiswa = [
-			["nama"=>"Edo Kristian","nim"=>"E31192060"],
-			["nama"=>"Chelsea Agatha","nim"=>"E31183456"],
-			["nama"=>"Silvana","nim"=>"E31167890"] 
+			["nama"=>"Ahmad Aji Naufal","nim"=>"E31191401"],
+			["nama"=>"Gusion","nim"=>"E31183432"],
+			["nama"=>"Hanabi","nim"=>"E31167232"] 
         ];
         return $data_mahasiswa;
 	}
